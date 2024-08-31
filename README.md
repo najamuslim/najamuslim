@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Najatul Muslim Dinatra from Indonesia !
 
 <!--
 **najamuslim/najamuslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Passionate Web3 Developer and Blockchain Engineer with hands-on experience in developing decentralized applications (DApps) and smart contracts. I recently secured 1st place in the ETH SEA Hackathon, where I demonstrated my ability to build innovative blockchain solutions. My journey into Web3 is driven by a strong desire to contribute to the decentralized future, leveraging blockchain technology to create secure, scalable, and efficient systems.
+
+In addition to my expertise in Web3, I bring over 3-5 years of experience as a Fullstack Software Engineer with a diverse skill set in JavaScript/TypeScript, ReactJS/React Native, Node.js, Golang, Laravel PHP, and WordPress. I have successfully contributed to the growth of education technology, software house, and insurance companies, consistently delivering high-quality solutions that meet business needs.
+
+I am also well-versed in cloud infrastructure, including AWS and GCP, where I have deployed and managed scalable applications. My proficiency in Docker, Kubernetes, CI/CD pipelines, and unit testing allows me to maintain high code quality and streamline the development process across various environments.
+
+I thrive in fast-paced, dynamic environments and am always eager to take on new challenges. My goal is to bring my technical prowess and comprehensive industry experience to drive impactful projects in the Web3 space, helping organizations innovate and grow in the decentralized world.
