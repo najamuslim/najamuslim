@@ -33,7 +33,7 @@ I thrive in fast-paced, dynamic environments and am always eager to take on new 
 <br />
 
 <h2> 📈 Github Stats </h2> 
-<a href="https://github.com/najamuslim/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najamuslim&layout=compact&theme=tokyonight&hide_progress=true&hide=shell,html,css,scss,mustache,gherkin,blade,java,perl,xslt" /></a>
+<a href="https://github.com/najamuslim/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najamuslim&layout=compact&theme=tokyonight&hide_progress=true&hide=shell,html,css,scss,mustache,gherkin,blade,java,perl,xslt,php,dockerfile,volt,vue,hack,procfile" /></a>
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=najamuslim&theme=tokyonight" alt="najamuslim" />
 
