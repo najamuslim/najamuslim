@@ -33,7 +33,7 @@ I thrive in fast-paced, dynamic environments and am always eager to take on new 
 <br />
 
 <h2> 📈 Github Stats </h2> 
-<a href="https://github.com/najamuslim/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najamuslim&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/najamuslim/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najamuslim&layout=compact&theme=tokyonight&hide_progress=true&hide=shell,html,css,scss,mustache,gherkin,blade,java,perl,xslt" /></a>
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=najamuslim&theme=tokyonight" alt="najamuslim" />
 
@@ -41,7 +41,6 @@ I thrive in fast-paced, dynamic environments and am always eager to take on new 
 <h3> Smart Contract Development </h3> 
 <a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"></a>&nbsp;
 <a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="img/foundry.svg" alt="Foundry"></a>&nbsp;
-<a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="img/thirdweb.svg" alt="Thirdweb"></a>&nbsp;
 <a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="img/hardhat.svg" alt="Hardhat"></a>&nbsp;
 <a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="img/truffle.svg" alt="Truffle"></a>&nbsp;
 <a href="https://www.linkedin.com/in/najatul-muslim-dinatra/" target="_blank"><img src="img/wagmi.svg" alt="Wagmi"></a>&nbsp;
